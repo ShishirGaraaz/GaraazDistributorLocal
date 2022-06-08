@@ -1,2 +1,0 @@
-# GaraazDistributorLocal
-Local Distributor App
